@@ -1,3 +1,5 @@
+!!!! For the mod to work, you need CrabDevKit, which must be placed in the plugins folder !!!!
+
 <img width="322" height="342" alt="image" src="https://github.com/user-attachments/assets/9d3ebad0-20c3-479f-8414-8d21d4f32156" />
 
 <img width="480" height="371" alt="image" src="https://github.com/user-attachments/assets/c2bb994e-a6f7-48c3-a500-694aaef4c476" />
@@ -12,4 +14,6 @@ You can left-click to place a graffiti (30-second cooldown)
 
 All menu actions are only available while the menu key is held down (it's a hold, not a toggle key; the menu key is "G")
 
-The mod requires the Crab Dev Kit
+CrabDevKit :
+
+https://github.com/lammas321/CrabDevKit
