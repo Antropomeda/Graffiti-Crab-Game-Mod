@@ -4,7 +4,7 @@
 
 <img width="480" height="371" alt="image" src="https://github.com/user-attachments/assets/c2bb994e-a6f7-48c3-a500-694aaef4c476" />
 
-You can upload any .png images, and they will become graffiti (a folder is automatically created in the plugins folder ("AntroGraffiti"). Drop the .png files into it, and they will appear as stickers/graffiti in the game)
+You can upload any .png(or .jpg or .jpeg) images, and they will become graffiti (a folder is automatically created in the plugins folder ("AntroGraffiti"). Drop the .png(or .jpg or .jpeg) files into it, and they will appear as stickers/graffiti in the game)
 
 You can resize them using the arrow keys
 
